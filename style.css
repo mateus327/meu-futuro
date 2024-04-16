@@ -11,3 +11,13 @@
     align-items: center;
     padding: 24px 0;
 }
+
+.imagem-principal{
+    width:20% ;
+}
+
+.lista-principal{
+display: inline-block;
+margin: 0 16px;
+font-size: 24px;
+}
