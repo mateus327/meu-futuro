@@ -21,3 +21,17 @@ display: inline-block;
 margin: 0 16px;
 font-size: 24px;
 }
+.futuro{
+    background-color: lightblue;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.div-conteudo{
+    width: 35%;
+}
+.titulo{
+    padding: 24px 0;
+}
